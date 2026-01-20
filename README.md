@@ -28,9 +28,9 @@ The woodwork was done in my garage with a few basic hand tools mainly with a saw
 
 
 The initial stain obscured the woodgrain, so I decided to sand the entire thing down to its natural state to present the wood grain clearly. Moreover the round over although looked good in simulation was in reality too subtle. So I decided to make the fillet radius larger in the final product.
+
+
 <img width="437" height="383" alt="image" src="https://github.com/user-attachments/assets/f53d3fa1-21eb-4e63-b294-47eea355913b" />
-
-
 ## V2 roadmap
 
 
