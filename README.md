@@ -1,7 +1,3 @@
-Here is the updated Markdown. I have removed the emojis and checkboxes and kept the text exactly as you wrote it, organizing it with clean headers.
-
-***
-
 # Industrial Style Desk Lamp
 
 A custom designed desk lamp featuring a raw wood base with “industrial” style. This repository documents the fabrication along with the iterative design and the CAD files.
